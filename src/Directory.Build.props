@@ -1,11 +1,11 @@
 <Project>
     <PropertyGroup>
-        <ProductVersion>3.0.1-dev.0</ProductVersion>
+        <ProductVersion>3.0.1-dev.2</ProductVersion>
         <TargetFramework>net10.0</TargetFramework>
 
         <AvaloniaVersion>12.1.1</AvaloniaVersion>
         <AvaloniaDataGridVersion>12.1.2</AvaloniaDataGridVersion>
-        <AsvAvaloniaVersion>3.0.3-dev.0</AsvAvaloniaVersion>
+        <AsvAvaloniaVersion>3.0.3-dev.1</AsvAvaloniaVersion>
         <AsvMavlinkVersion>4.3.0</AsvMavlinkVersion>
         <AsvGnssVersion>2.2.0</AsvGnssVersion>
         <AsvLauncherApiVersion>0.0.1</AsvLauncherApiVersion>
